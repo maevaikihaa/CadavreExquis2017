@@ -7,5 +7,3 @@ Principe du Jeu
 
 ###Participants
 Tous les membres de la formation.
-
-**llzkzkkz**
