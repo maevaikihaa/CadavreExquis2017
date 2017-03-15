@@ -7,3 +7,6 @@ Principe du Jeu
 
 ###Participants
 Tous les membres de la formation.
+
+## Auteur
+Maeva Sibers
