@@ -10,3 +10,6 @@ Tous les membres de la formation.
 
 ## Auteur
 Maeva Sibers
+
+## Remerciements
+Merci à toutes et à tous
